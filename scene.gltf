@@ -8001,64 +8001,64 @@
   ],
   "images": [
     {
-      "uri": "textures/metal_baseColor.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/metal_metallicRoughness.png"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/metal_emissive.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/metal_normal.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/blanco_baseColor.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/blanco_metallicRoughness.png"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/blanco_normal.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/Default_Material_baseColor.jpeg"
+      "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/Default_Material_metallicRoughness.png"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/Default_Material_normal.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/otros_baseColor.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/otros_metallicRoughness.png"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/otros_emissive.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/otros_normal.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/trans_baseColor.png"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/trans_metallicRoughness.png"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/trans_normal.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/panel_negro_baseColor.jpeg"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/panel_negro_metallicRoughness.png"
+        "uri": "textures/texture.jpg"
     },
     {
-      "uri": "textures/panel_negro_normal.jpeg"
+        "uri": "textures/texture.jpg"
     }
   ],
   "materials": [
@@ -11230,4 +11230,3 @@
     }
   ]
 }
-
